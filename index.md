@@ -1,4 +1,4 @@
-# Cindy's first CS193 Lab
+# Cindy's First CS193 Lab
 
 ## List of My Favorite Things About CS193
   - Cool instructors
